@@ -2,8 +2,8 @@ function fooBar() {
 	let counter = 32;
 
 	while (counter < 10) {
-		console.log("count is " + counter);
-		counter += 2;
+		console.log("your count is " + counter);
+		counter += 22;
 	}
 }
 
