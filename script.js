@@ -1,5 +1,5 @@
 function fooBar() {
-	let counter = -3507302;
+	let counter = 32;
 
 	while (counter < 10) {
 		console.log("your count is " + counter);
